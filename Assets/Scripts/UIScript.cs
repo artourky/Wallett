@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
+using System.Collections;
 
-public class Wallet : MonoBehaviour {
-        
-    public static double startMoney;
+public class UIScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
